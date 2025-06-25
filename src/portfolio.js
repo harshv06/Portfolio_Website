@@ -426,107 +426,48 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
-      experiences: [
-        {
-          title: "CS2 - IT Developer/Analyst",
-          company: "Canada Revenue Agency",
-          company_url: "https://www.canada.ca/en/revenue-agency.html",
-          logo_path: "cra.png",
-          duration: "May 2023 - Present",
-          location: "Halifax, Nova Scotia",
-          description:
-            "• Led development to concurrently process tax returns for multiple fiscal years, reducing system processing time by 35%\n" +
-            "• Implemented new tax return types and led development of T3 returns, resolving 25+ critical production issues\n" +
-            "• Collaborated across 5+ cross-functional teams to integrate tax law changes, ensuring 100% compliance\n" +
-            "• Mentored 4 team members and led code review sessions, enhancing team knowledge sharing",
-          color: "#f10000",
-        },
-        {
-          title: "Full Stack Developer - Part-time Contract",
-          company: "SpatialCut",
-          company_url: "",
-          logo_path: "spatialcut.png",
-          duration: "April 2024 - Present",
-          location: "Remote",
-          description:
-            "• Architected AWS cloud infrastructure, reducing complexity by 40% and improving scalability\n" +
-            "• Developed microservices using AWS SageMaker, ECS, and EC2 Mac Instances for Apple Vision Pro platform\n" +
-            "• Optimized video processing pipeline, reducing rendering time by 25%",
-          color: "#2962FF",
-        },
-        {
-          title: "Full Stack Developer",
-          company: "Quicko",
-          company_url: "https://quicko.com/",
-          logo_path: "quicko.jpg",
-          duration: "June 2021 - October 2021",
-          location: "Ahmedabad",
-          description:
-            "• Developed PWA with Flutter serving 50,000+ customers\n" +
-            "• Integrated 5+ brokerages including Zerodha, Upstox, Groww\n" +
-            "• Implemented backend APIs using Node.js and Spring Boot, reducing operational costs by 20%\n" +
-            "• Created responsive frontend using Angular and Vue.js",
-          color: "#2962FF",
-        },
-        {
-          title: "Python Developer",
-          company: "Google Summer of Code - Sugar Labs",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "May 2019 - August 2019",
-          location: "Remote",
-          description:
-            "• Implemented Dashboard functionality using Python and GTK3 for Sugar OS\n" +
-            "• Created interactive widget for Sugar Desktop environment\n" +
-            "• Contributed to Python 2 to 3 migration and Music Blocks features",
-          color: "#ee3c26",
-        },
-      ],
-    },
-    {
       title: "Internships",
       experiences: [
         {
-          title: "Google Summer of Code",
-          company: "Sugar Labs",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "May 2019 - Aug 2019",
-          location: "Work From Home",
+          title: ".Net Developer Intern",
+          company: "Allvue Systems",
+          company_url: "https://www.allvuesystems.com/",
+          logo_path: "allvue.png",
+          duration: "August 2024",
+          location: "Pune",
           description:
-            "I worked on the Dashboard project which helps users track their activities while using Sugar OS. I also worked on making a Tamagotchi-like widget for Sugar's Home Screen",
+            "Internship task was to develop a web application using ASP.NET Core and ReactJS.",
           color: "#ee3c26",
         },
         {
-          title: "Android App Developer Intern",
-          company: "IAS4Sure",
-          company_url: " ",
-          logo_path: "buld.jpg",
-          duration: "December 2019 - February 2020",
-          location: "Work From Home",
+          title: "App Developer Intern",
+          company: "Extra Pocket Technologies Pvt. Ltd.",
+          company_url: "https://extrapocket.in/",
+          logo_path: "ep.png",
+          duration: "January 2024",
+          location: "Pune",
           description:
             "Internship task was to make a native Android application. ",
           color: "#0071C5",
         },
         {
-          title: "Web Developer",
-          company: "Wrighter Writing Solutions",
-          company_url: " ",
-          logo_path: "wrighter.jpg",
-          duration: "August 2020",
-          location: "",
-          description: "Develop a website using PHP and jQuery.",
+          title: "Data Analyst Intern",
+          company: "I-Gurus Technologies Pvt. Ltd.",
+          company_url: "https://www.igurus.in/",
+          logo_path: "IGurus.png",
+          duration: "December 2024",
+          location: "Pune",
+          description: "Developed a data analysis tool for the company.",
           color: "#56A4D3",
         },
         {
-          title: "Front-End Developer",
-          company: "VJ TechServe",
-          company_url: " ",
-          logo_path: "vjt.png",
-          duration: "September 2020",
-          location: "",
-          description: "Develop a portfolio website using ReactJS",
+          title: "Andriod App Developer Intern",
+          company: "Dynamic Cranes Engineers Pvt. Ltd.",
+          company_url: "https://www.dgoc.in/",
+          logo_path: "Dgoc.png",
+          duration: "June 2022",
+          location: "Pune",
+          description: "Enhanced the existing Android app with new features.",
           color: "#800000",
         },
       ],
@@ -535,46 +476,14 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Summer of Code Mentor",
-          company: "Sugar Labs / GSoC",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "Summer of 2017 / 18 / 20",
-          location: " ",
-          description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
-          color: "#4285F4",
-        },
-        {
-          title: "Google Code-In Mentor",
-          company: "Sugar Labs / GSoC",
-          company_url: "https://sugarlabs.org/",
-          logo_path: "google_logo.png",
-          duration: "Winter of 2017 / 18 / 19",
-          location: " ",
-          description:
-            "Day to day resposibilites of this mentorship was to help out children aged 13-17 get started with programming and open-source, review their work and approve them.",
-          color: "#D83B01",
-        },
-        {
-          title: "Board Member at Codeuino",
+          title: "Cyber Khoj Club Vice President",
           company: " ",
           company_url: " ",
-          logo_path: "codeuino.jpg",
-          duration: "2018 - 2019",
-          location: " ",
-          description: "Previous Board during early days of Codeuino",
-          color: "#D83B01",
-        },
-        {
-          title: "BluWings Club",
-          company: " ",
-          company_url: " ",
-          logo_path: "b.png",
-          duration: "2018 - On Going",
+          logo_path: "ADYPU.png",
+          duration: "2022 - 2024",
           location: " ",
           description:
-            "Co-Founder and President of the programming club called BluWings. Have organized several workshops which introduced programming and related tools to freshers.",
+            "Organized workshops on Cybersecurity, Ethical Hacking, and Web Development.",
           color: "#D83B01",
         },
       ],
